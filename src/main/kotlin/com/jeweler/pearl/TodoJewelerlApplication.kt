@@ -1,11 +1,11 @@
-package com.jeweler.a
+package com.jeweler.pearl
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
 
 @SpringBootApplication
-class AApplication
+class TodoJewelerApplication
 
 fun main(args: Array<String>) {
-    runApplication<AApplication>(*args)
+    runApplication<TodoJewelerApplication>(*args)
 }

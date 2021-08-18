@@ -1,4 +1,4 @@
-package com.jeweler.a
+package com.jeweler.pearl
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest
